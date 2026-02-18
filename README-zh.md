@@ -8,6 +8,7 @@
 
 ## 当前项目
 
+- 🌊 **LingFlow** – [github.com/muzig/LingFlow](https://github.com/muzig/LingFlow) – 结构化英语学习工作流：技术文档 → 双语阅读、关键句子/词汇提取、音频、间隔重复卡片。
 - 📝 **博客** – [muzig.github.io](https://muzig.github.io) – 写东西的地方。
 
 ## 我在做什么

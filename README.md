@@ -8,6 +8,7 @@
 
 ## Current Projects
 
+- 🌊 **LingFlow** – [github.com/muzig/LingFlow](https://github.com/muzig/LingFlow) – Structured English learning workflow for developers: technical docs → bilingual reading, key sentences/vocabulary extraction, audio, spaced-repetition cards.
 - 📝 **Blog** – [muzig.github.io](https://muzig.github.io) – Where I write.
 
 ## What I'm Doing
