@@ -1,8 +1,10 @@
 # muzig | 高级后端开发工程师
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) &nbsp;·&nbsp; ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) &nbsp;·&nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) &nbsp;·&nbsp; ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
 ## 📋 个人简介
 
-**6年+ 游戏后端开发经验** | **Go 语言深度实践者** | **分布式系统架构师** | **AI 开发探索者**
+**6 年+ 游戏后端开发经验** | **Go 语言深度实践者** | **分布式系统架构师** | **AI 开发探索者**
 
 专注于 SLG 游戏后端开发，具备大规模高并发系统设计经验，擅长微服务架构和 AI 辅助开发工具链构建。
 
@@ -27,10 +29,6 @@
 - **微服务解耦**：基于 DDD 的微服务架构设计，提升系统可扩展性，降低开发复杂度
 - **AI 工具链**：构建 AI 辅助开发工具，显著提升团队开发效率
 - **全栈能力**：具备后端到前端的全链路开发经验
-
-## 🔧 技术栈
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## 🚀 技术方向
 
