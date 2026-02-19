@@ -20,6 +20,21 @@
 
 [📮 邮箱](mailto:muzig012046@gmail.com) · [🌐 博客](https://muzig.github.io/starrypen) · [🔍 知乎](https://www.zhihu.com/people/nextleaf)
 
+## GitHub 最近活动
+
+<!-- START_SECTION:activity -->
+<!-- END_SECTION:activity -->
+
+## 最新博客文章
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 最新 YouTube 视频
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 ---
 
 **语言**：[English](README.md) | [中文](README-zh.md)
