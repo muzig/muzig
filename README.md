@@ -21,7 +21,7 @@
 
 ## Connect
 
-[📮 Email](mailto:muzig012046@gmail.com) · [🌐 Blog](https://muzig.github.io/starrypen) · [🔍 Zhihu](https://www.zhihu.com/people/nextleaf)
+[📮 Email](mailto:muzig012046@gmail.com) · [🌐 Blog](https://muzig.github.io) · [🔍 Zhihu](https://www.zhihu.com/people/nextleaf)
 
 ---
 
