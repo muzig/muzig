@@ -21,7 +21,7 @@
 
 ## 联系
 
-[📮 邮箱](mailto:muzig012046@gmail.com) · [🌐 博客](https://muzig.github.io/starrypen) · [🔍 知乎](https://www.zhihu.com/people/nextleaf)
+[📮 邮箱](mailto:muzig012046@gmail.com) · [🌐 博客](https://muzig.github.io) · [🔍 知乎](https://www.zhihu.com/people/nextleaf)
 
 ---
 
