@@ -7,19 +7,42 @@
 
 {{ badges }}
 
-> {{ summary }}
+---
 
-## {{ projects_title }}
+## {{ about_title }}
 
-{{ projects }}
+{{ about }}
 
-## {{ focus_title }}
+---
 
-{{ focus }}
+## {{ skills_title }}
+
+{{ skills }}
+
+---
+
+## {{ current_title }}
+
+{{ current }}
+
+---
+
+## {{ blog_title }}
+
+- 🌐 {{ blog_url }}
+👉 {{ blog_desc }}
+
+---
 
 ## {{ connect_title }}
 
 {{ connect }}
+
+---
+
+## {{ tagline_title }}
+
+> {{ tagline }}
 
 ---
 

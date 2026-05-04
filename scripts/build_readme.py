@@ -38,32 +38,30 @@ def render_badges(groups: list[list[dict]]) -> str:
     )
 
 
-def render_projects(items: list[dict], lang: str) -> str:
-    lines = []
-    for item in items:
-        name = item.get("name_localized", {}).get(lang, item["name"])
-        lines.append(
-            "- {emoji} **{name}** – [{url_label}]({url}) – {desc}".format(
-                emoji=item["emoji"],
-                name=name,
-                url_label=item["url"].removeprefix("https://"),
-                url=item["url"],
-                desc=item["desc"][lang],
-            )
-        )
-    return "\n".join(lines)
+def render_about(text: str) -> str:
+    return text
 
 
-def render_focus(items: list[dict], lang: str) -> str:
+def render_skills(items: list[dict], lang: str) -> str:
     lines = []
     for item in items:
-        lines.append(
-            "- **{title}** – {desc}".format(
-                title=item["title"][lang],
-                desc=item["desc"][lang],
-            )
-        )
-    return "\n".join(lines)
+        lines.append(f"### {item['emoji']} {item['title'][lang]}\n")
+        for bullet in item["items"][lang]:
+            lines.append(f"- {bullet}\n")
+        if "note" in item and item["note"]:
+            lines.append(f"\n{item['note'][lang]}\n")
+    return "".join(lines).rstrip()
+
+
+def render_current(items: list[dict], lang: str) -> str:
+    lines = []
+    for item in items:
+        lines.append(f"### {item['emoji']} {item['title'][lang]}\n")
+        for bullet in item["items"][lang]:
+            lines.append(f"- {bullet}\n")
+        if "goal" in item and item["goal"]:
+            lines.append(f"\n{item['goal'][lang]}\n")
+    return "".join(lines).rstrip()
 
 
 def render_connect(items: list[dict], lang: str) -> str:
@@ -83,20 +81,29 @@ def render_template(template: str, replacements: dict[str, str]) -> str:
 def build_readme(profile: dict, lang: str) -> str:
     template_path = TEMPLATE_DIR / ("README.en.md.tpl" if lang == "en" else "README.zh.md.tpl")
     template = template_path.read_text(encoding="utf-8")
+
+    titles = profile["section_titles"]
+
     return render_template(
         template,
         {
             "title": profile["title"][lang],
             "headline": " | ".join(profile["headline"][lang]),
             "badges": render_badges(profile["badge_groups"]),
-            "summary": profile["summary"][lang],
-            "projects_title": profile["section_titles"]["projects"][lang],
-            "projects": render_projects(profile["projects"], lang),
-            "focus_title": profile["section_titles"]["focus"][lang],
-            "focus": render_focus(profile["focus"], lang),
-            "connect_title": profile["section_titles"]["connect"][lang],
+            "about_title": titles["about"][lang],
+            "about": render_about(profile["about"][lang]),
+            "skills_title": titles["skills"][lang],
+            "skills": render_skills(profile["skills"], lang),
+            "current_title": titles["current"][lang],
+            "current": render_current(profile["current"], lang),
+            "blog_title": titles["blog"][lang],
+            "blog_url": profile["blog"]["url"],
+            "blog_desc": profile["blog"]["desc"][lang],
+            "connect_title": titles["connect"][lang],
             "connect": render_connect(profile["connect"], lang),
-            "language_title": profile["section_titles"]["language"][lang],
+            "tagline_title": titles["tagline"][lang],
+            "tagline": profile["tagline"][lang],
+            "language_title": titles.get("language", {"en": "Language", "zh": "语言"})[lang],
         },
     )
 

@@ -3,25 +3,79 @@
 
 # Hi，我是 muzig 👋
 
-🎮 **7+ 年游戏后端** | 🔧 **Go & 分布式系统** | 🤖 **AI-辅助开发工具链**
+🎮 **7+ 年游戏后端（SLG）** | 🧩 **游戏全栈（Unity + Go）** | 🤖 **AI + Agent 工程化**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) &nbsp;·&nbsp; ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-242424?style=flat&logo=tauri&logoColor=white) &nbsp;·&nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) &nbsp;·&nbsp; ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) &nbsp;·&nbsp; ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) &nbsp;·&nbsp; ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-> 专注 SLG 后端。正在探索如何让 Agent 接管游戏服务器的开发、运维和决策支持工作。
+---
 
-## 当前项目
+## 关于我
 
-- 📝 **博客** – [muzig.github.io](https://muzig.github.io) – 写东西的地方。
+专注于 **SLG 游戏后端架构与高并发系统设计**，同时具备 **Unity 客户端开发能力**，能够打通客户端与服务端的完整链路。
 
-## 我在做什么
+- 支撑 **高并发游戏服务器架构（百万级请求/日）**
+- 具备 **客户端-服务端联动设计能力（协议/数据同步/性能优化）**
+- 熟悉 **服务拆分 / 缓存体系 / 数据一致性问题**
+- 有实际 **性能优化 & 稳定性建设经验（限流/降级/监控）**
 
-- **让龙虾接管后端交付** – 把龙虾推进到日常服务器业务开发、问题处理、部署和运维工作里。
-- **研究 Agent 的设计原理** – 研究 Agent 的模式和失败边界，让 AI 更稳定地处理游戏服务器开发中的架构、排障和交付问题。
-- **分析游戏商业数据** – 开始分析游戏数据里的留存、付费和商业信号，用来支持产品和服务端相关决策。
+👉 当前重点方向：**将 AI Agent 引入游戏开发流程，实现客户端 + 服务端 + 运维的自动化协作**
 
-## 联系
+---
 
-[📮 邮箱](mailto:muzig012046@gmail.com) · [🌐 博客](https://muzig.github.io) · [🔍 知乎](https://www.zhihu.com/people/nextleaf)
+## 技术方向
+
+### ⚙️ 服务端（核心优势）
+- Go 高性能服务开发（Goroutine / GC / pprof 调优）
+- 分布式系统设计（缓存一致性 / MQ / 服务治理）
+- 高并发处理（削峰填谷 / 异步化 / 限流）
+### 🎮 客户端（Unity）
+- Unity（C#）基础开发能力（UI / 逻辑层 / 网络交互）
+- 熟悉客户端与服务端通信协议设计（序列化 / 接口设计）
+- 能参与玩法功能联调与性能优化
+
+👉 能力定位：**不是纯客户端开发，而是「服务端驱动的客户端协同开发」**
+### 🤖 AI + Agent
+- Agent 在工程场景中的应用（开发 / 运维 / 排障）
+- Prompt / Tool / MCP 架构设计
+- AI 驱动的自动化开发流程
+### 📊 游戏数据分析
+- 留存 / 付费 / 生命周期数据分析
+- 数据驱动服务端策略优化
+
+---
+
+## 当前探索
+
+### 🤖 AI 驱动的游戏开发流程（Agent 化）
+- 服务端代码生成与重构
+- 客户端联动逻辑辅助开发
+- 日常问题排查与修复
+- 部署与运维自动化
+
+👉 目标：**减少重复开发成本，提高整体研发效率**
+### 🧩 游戏全链路优化
+- 优化网络协议与数据传输效率
+- 提升客户端与服务端交互性能
+- 支持复杂玩法的稳定实现
+
+---
+
+## 博客
+
+- 🌐 https://muzig.github.io
+👉 分享后端架构 / AI工程实践 / 游戏技术思考。
+
+---
+
+## 联系我
+
+[📧 Email](mailto:muzig012046@gmail.com) · [🌐 博客](https://muzig.github.io) · [🔍 知乎](https://www.zhihu.com/people/nextleaf)
+
+---
+
+## 一句话总结
+
+> 一个能够打通 **Unity 客户端 + Go 服务端 + AI Agent** 的游戏工程师。
 
 ---
 
