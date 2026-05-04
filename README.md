@@ -3,25 +3,79 @@
 
 # Hi, I'm muzig 👋
 
-🎮 **7+ years game backend** | 🔧 **Go & distributed systems** | 🤖 **AI-assisted dev tooling**
+🎮 **7+ years game backend (SLG)** | 🧩 **Full-stack game (Unity + Go)** | 🤖 **AI + Agent engineering**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) &nbsp;·&nbsp; ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-242424?style=flat&logo=tauri&logoColor=white) &nbsp;·&nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) &nbsp;·&nbsp; ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) &nbsp;·&nbsp; ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) &nbsp;·&nbsp; ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-> SLG backend specialist. Exploring how agents can take over game server development, operations, and decision support work.
+---
 
-## Current Projects
+## About Me
 
-- 📝 **Blog** – [muzig.github.io](https://muzig.github.io) – Where I write.
+Specialized in **SLG game backend architecture and high-concurrency system design**, with full **Unity client development capabilities** to bridge client-server pipelines.
 
-## What I'm Doing
+- Built **high-concurrency game server infrastructure (millions of requests/day)**
+- Designed **client-server联动 mechanics (protocol/data sync/performance)**
+- Deep knowledge of **service decomposition / caching / data consistency**
+- Practical experience in **performance optimization & reliability (rate-limiting/degradation/monitoring)**
 
-- **AI-run backend delivery** – Putting Openclaw into daily server business development, issue handling, deployment, and operations work.
-- **Agent design for game servers** – Studying agent patterns and failure boundaries so AI can better handle architecture, debugging, and delivery problems in game server development.
-- **Game commercial data analysis** – Starting to analyze retention, monetization, and business signals from game data to support product and server-side decisions.
+👉 Current focus: **Bringing AI Agent into the game development workflow for automated client + server + operations collaboration**
+
+---
+
+## Technical Skills
+
+### ⚙️ Server (Core Expertise)
+- Go high-performance service development (Goroutine / GC / pprof tuning)
+- Distributed system design (cache consistency / MQ / service governance)
+- High-concurrency handling (peak-shaving / async / rate-limiting)
+### 🎮 Client (Unity)
+- Unity (C#) development (UI / logic layer / network interaction)
+- Client-server protocol design (serialization / interface design)
+- Feature integration and performance optimization
+
+👉 Positioning: **Server-driven client collaboration**, not pure client development
+### 🤖 AI + Agent
+- Agent in engineering scenarios (development / operations / troubleshooting)
+- Prompt / Tool / MCP architecture design
+- AI-driven automated development workflows
+### 📊 Game Data Analysis
+- Retention / monetization / lifecycle data analysis
+- Data-driven server-side strategy optimization
+
+---
+
+## Current Exploration
+
+### 🤖 AI-driven Game Development (Agentization)
+- Server code generation and refactoring
+- Client-side联动 logic assistance
+- Daily issue investigation and fixes
+- Deployment and operations automation
+
+👉 Goal: **Reduce repetitive development cost, improve overall R&D efficiency**
+### 🧩 Full-chain Game Optimization
+- Optimize network protocol and data transfer efficiency
+- Improve client-server interaction performance
+- Support stable implementation of complex gameplay
+
+---
+
+## Blog
+
+- 🌐 https://muzig.github.io
+👉 Writing about backend architecture, AI engineering practices, and game tech thoughts.
+
+---
 
 ## Connect
 
-[📮 Email](mailto:muzig012046@gmail.com) · [🌐 Blog](https://muzig.github.io) · [🔍 Zhihu](https://www.zhihu.com/people/nextleaf)
+[📧 Email](mailto:muzig012046@gmail.com) · [🌐 Blog](https://muzig.github.io) · [🔍 Zhihu](https://www.zhihu.com/people/nextleaf)
+
+---
+
+## One-liner
+
+> A game engineer who bridges **Unity client + Go server + AI Agent**.
 
 ---
 
