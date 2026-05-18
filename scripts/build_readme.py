@@ -9,8 +9,8 @@ ROOT = Path(__file__).resolve().parent.parent
 CONTENT_PATH = ROOT / "content" / "profile.json"
 TEMPLATE_DIR = ROOT / "templates"
 OUTPUTS = {
-    "en": ROOT / "README.md",
-    "zh": ROOT / "README-zh.md",
+    "zh": ROOT / "README.md",
+    "en": ROOT / "README-zh.md",
 }
 
 
