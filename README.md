@@ -12,8 +12,11 @@ Game backend engineer — mostly Go servers and Unity client protocols. Lately I
 
 ## 🚀 What I'm working on
 
-- **AI Agents in game dev** — Server codegen, client integration, prod triage, deploy scripts
-- **SLG full-stack tuning** — Protocols, serialization, client-server interaction, keeping complex gameplay stable
+**Day job** — SLG systems end-to-end: Go servers, Unity client, AI Agents in the dev loop.
+
+**On the side**, my time goes where effort compounds over time, and where the steering wheel stays in my hands. English is the slow build that keeps paying. Content tooling stops a good thought from rotting in a drafts folder. Data acquisition lets me see the world on my own terms. Service adjustment tooling means changing my mind costs no more than pressing undo.
+
+**Open source planning** — sketching the next tools I want to ship.
 
 ## 💼 Stack
 
