@@ -1,32 +1,28 @@
-# Hi, I'm muzig 👋
+# Hi，我是 muzig 👋
 
-Game backend engineer building high-concurrency SLG systems end-to-end — Go servers, Unity client integration, and the seams in between. Currently exploring AI Agent across the game dev loop.
+[English](README.md) · **中文**
 
-🚀 **Current Focus**
+游戏后端工程师，主要写 Go 服务端和 Unity 客户端的协议层。最近想把 AI Agent 真正接到游戏研发的流水线上——代码生成、联调、排查、部署，都还在试。
 
-- **AI Agent + Game Dev** — Bringing Agent into server codegen, client integration, issue triage, and deployment automation to cut repetitive work.
-- **Full-chain Game Optimization** — Network protocols, data transfer, client-server interaction, and stable complex gameplay.
+[📧 Email](mailto:muzig012046@gmail.com) · [🌐 Blog](https://muzig.github.io) · [🔍 知乎 @nextleaf](https://www.zhihu.com/people/nextleaf)
 
-💼 **Tech Stack**
+> **把 Unity 客户端、Go 服务端、AI Agent 串起来，是我最想做成的事。**
 
-- **Server**: Go high-performance services · Distributed systems · High concurrency · Caching · Reliability
-- **Client & Protocols**: Unity / C# · Client-server protocols · Serialization · Gameplay integration
-- **AI & Tooling**: Agent architecture · Prompt / Tool / MCP design · Dev automation
+* * *
 
-💻 **Projects**
+## 🚀 现在在做的
 
-- **[lexicon](https://github.com/muzig/lexicon)** — A reading-first English vocabulary practice app — read, collect, review, write.
-- **[content-studio](https://github.com/muzig/content-studio)** — AI-powered social media content creation and scheduling tool.
-- **[ai-nav](https://github.com/muzig/ai-nav)** — A self-hosted navigation homepage with AI-powered URL organization.
+- **AI Agent 进游戏研发** — 服务端代码生成、客户端联调、线上排查、部署脚本
+- **SLG 全链路优化** — 协议、序列化、客户端-服务端交互、复杂玩法的稳定实现
 
-📫 **Get in Touch**
+## 💼 技术栈
 
-- 📧 [muzig012046@gmail.com](mailto:muzig012046@gmail.com)
-- 🌐 [muzig.github.io](https://muzig.github.io)
-- 🔍 [Zhihu @nextleaf](https://www.zhihu.com/people/nextleaf)
+**服务端** Go · 分布式 · 高并发 · 缓存 · 稳定性
+**客户端** Unity / C# · 协议设计 · 玩法联调
+**AI / 工具链** Agent 架构 · Prompt / Tool / MCP · 研发自动化
 
----
+## 💻 开源项目
 
-> A game engineer who bridges **Unity client + Go server + AI Agent**.
-
-**Language**: [English](README-zh.md) | [中文](README.md)
+- 📖 **[lexicon](https://github.com/muzig/lexicon)** — 阅读优先的英语词汇应用，读、收藏、复习、默写
+- ✍️ **[content-studio](https://github.com/muzig/content-studio)** — AI 自动生成并排期社媒内容
+- 🧭 **[ai-nav](https://github.com/muzig/ai-nav)** — 自托管导航主页，AI 整理链接分类
