@@ -4,8 +4,8 @@
 
 This repository contains a bilingual (Chinese/English) GitHub profile README.
 
-- `README.md` — Chinese version (primary)
-- `README-zh.md` — English version
+- `README.md` — English version (GitHub default)
+- `README-zh.md` — Chinese version
 
 Both files are maintained directly. There is no build system, template engine, or package manager.
 
@@ -63,3 +63,9 @@ Apply it conservatively:
 
 - Keep the repository simple.
 - If `AGENTS.md` and `CLAUDE.md` overlap, keep them consistent.
+
+## Cursor Cloud specific instructions
+
+There is no package install, build, test suite, or service to start. Cloud Agents use the default image. The environment `install` command only checks that `README.md`, `README-zh.md`, `AGENTS.md`, and `CLAUDE.md` are present.
+
+`README.md` is the English profile. `README-zh.md` is the Chinese profile. After an edit, keep the same sections in the same order, then review `git diff`.
