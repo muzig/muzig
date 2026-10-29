@@ -6,8 +6,8 @@ This file provides guidance to Claude Code when working with this repository.
 
 This repository contains a bilingual (Chinese/English) GitHub profile README.
 
-- `README.md` — Chinese version (primary)
-- `README-zh.md` — English version
+- `README.md` — English version (primary, shown on the profile)
+- `README-zh.md` — Chinese version
 
 Both files are maintained directly. There is no build system, template engine, or package manager.
 
